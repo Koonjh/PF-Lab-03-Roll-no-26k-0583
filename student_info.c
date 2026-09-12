@@ -7,7 +7,7 @@ int main() {
   int age = 18;
   float height = 5.6;
   float gpa = 3.8;
-  char section = 'A';
+  char section = 'B';
 
   // Displaylaying Student Information in Organized Format 
   printf("===========================================\n");
